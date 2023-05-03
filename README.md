@@ -35,5 +35,17 @@
 
  
 </div>
+  <div  align="center">
+    <p>Meu nome é Pedro Victor Fernandes de Abreu e sou um desenvolvedor fullstack pleno com ampla experiência em diversas tecnologias. Tenho 2 anos de conhecimento em Laravel e PHP, o que me permite criar aplicações web robustas e eficientes. Além disso, tenho 1 ano de experiência em tecnologias frontend, como Angular, React e React Native, o que me permite criar interfaces de usuário modernas e intuitivas.<br><br>
+
+Tenho também 9 anos de experiência em suporte técnico, o que me proporcionou habilidades sólidas de resolução de problemas e uma excelente capacidade de comunicação. Acredito que uma comunicação clara e eficaz é fundamental para trabalhar em equipe e entregar projetos de sucesso.<br><br>
+
+Além das habilidades em desenvolvimento e suporte técnico, tenho conhecimentos em diversas tecnologias, como MySQL, PostgreSQL, TypeScript, JavaScript, Bootstrap, Tailwind CSS, CSS, HTML, Docker, Git e GitHub, bem como em desenvolvimento de APIs REST. Essas habilidades me permitem criar aplicações web e mobile completas, desde o backend até o frontend, e também gerenciar o ciclo de vida do desenvolvimento de software com eficiência, utilizando boas práticas de versionamento e controle de código.<br><br>
+
+Como desenvolvedor fullstack pleno, sou capaz de lidar com tarefas em diferentes áreas do desenvolvimento de software, desde a arquitetura e design de banco de dados até a criação de interfaces de usuário responsivas e funcionais. Tenho paixão por tecnologia e estou sempre buscando me atualizar nas últimas tendências do setor.<br><br>
+
+Estou comprometido em entregar soluções de alta qualidade, trabalhando em equipe e utilizando meu conhecimento em Laravel, PHP, Angular, React, React Native, suporte técnico e outras tecnologias para criar aplicações web e mobile de alto desempenho e atender às necessidades dos projetos e clientes com excelência.</p>
+
+  </div>
 
 
