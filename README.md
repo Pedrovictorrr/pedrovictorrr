@@ -1,6 +1,9 @@
-# Oie devs 👋
+<div align="center">
+ 
 
-## Sobre
+
+## Sobre 👋
+</div>
 
 ```kotlin
 object **Pedro Abreu** {
@@ -34,8 +37,10 @@ object **Pedro Abreu** {
 
 }
 ```
-
+<div align="center">
+ 
 ## Git Stats
+ 
 <div align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=dracula&hide_langs_below=1" />
@@ -64,3 +69,6 @@ object **Pedro Abreu** {
 
 🏡 [Website][website] **|**
 👔 [LinkedIn][linkedin]
+
+
+</div>
