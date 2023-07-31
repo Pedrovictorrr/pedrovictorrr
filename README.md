@@ -13,14 +13,31 @@ object **Pedro Abreu** {
  val acknowledgements = "Desenvolvedor Full Stack"
 
  val primarySkillset = "PHP(LARAVEL)"
- val Skills = listOf[
-                     "PHP", "TypeScript", "JavaScript",
-                     "React Native", "React", "Angular","Laravel",
-                     "Bootstrap", "Tailwind", "Docker", "AWS",
-                     "Angular", "JQuery", "Vue", "Python",
-                     "Django", "C", "Arduino", "Figma",
-                     "Linux"
-                    ]
+  val frontendDevelopment = listOf(
+      "TypeScript", "JavaScript", "React Native",
+      "React", "Angular", "Vue", "JQuery",
+      "Bootstrap", "Tailwind"
+  )
+  
+  val backendDevelopment = listOf(
+      "PHP", "Laravel", "Python", "Django"
+  )
+  
+  val devOpsAndCloud = listOf(
+      "Docker", "AWS"
+  )
+  
+  val embeddedSystemsAndIoT = listOf(
+      "C", "Arduino"
+  )
+  
+  val designAndPrototyping = listOf(
+      "Figma"
+  )
+  
+  val operatingSystems = listOf(
+      "Linux"
+  )
 
 }
 ```
