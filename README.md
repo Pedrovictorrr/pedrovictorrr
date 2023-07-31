@@ -12,7 +12,7 @@ object **Pedro Abreu** {
  val name = "Pedro Victor Fernandes de Abreu"
  val acknowledgements = "Desenvolvedor Full Stack"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "PHP(LARAVEL)"
  val Skills = listOf[
                      "PHP", "TypeScript", "JavaScript",
                      "React Native", "React", "Angular","Laravel",
