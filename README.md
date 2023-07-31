@@ -1,6 +1,8 @@
 # Oie devs 👋
 
 <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ <img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Abreu** github stats"/>
+
 
 ```kotlin
 object **Pedro Abreu** {
@@ -47,11 +49,8 @@ object **Pedro Abreu** {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Abreu** github stats"/>
-</a>
 <br>
-<div>
+<div style="padding:20px;">
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
