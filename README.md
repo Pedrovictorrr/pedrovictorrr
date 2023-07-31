@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **Pedro Abreu** {
@@ -13,11 +13,13 @@ object **Pedro Abreu** {
 
  val primarySkillset = "ALGUMAS HABILIDADES"
  val Skills = listOf[
-    "PHP", "TypeScript", "JavaScript", "React Native",
-    "React", "Angular","Laravel", "Bootstrap", "Tailwind", "Docker", "AWS",
-    "Angular", "JQuery", "Vue", "Python", "Django", "C", "Arduino", "Figma",
-    "Linux"
- ]
+                     "PHP", "TypeScript", "JavaScript",
+                     "React Native", "React", "Angular","Laravel",
+                     "Bootstrap", "Tailwind", "Docker", "AWS",
+                     "Angular", "JQuery", "Vue", "Python",
+                     "Django", "C", "Arduino", "Figma",
+                     "Linux"
+                    ]
 
 }
 ```
