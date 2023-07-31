@@ -2,7 +2,29 @@
  
 
 
+
+ 
+## Git Stats
+ 
+<div align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=chartreuse-dark&hide_langs_below=1" />
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=chartreuse-dark&line_height=27" alt="**Pedro Abreu** github stats"/>
+
+</div>
+
+
+## Status
+
+<br>
+<div style="padding:20px;">
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 ## Sobre 👋
+
 </div>
 
 ```kotlin
@@ -38,26 +60,6 @@ object **Pedro Abreu** {
 }
 ```
 <div align="center">
- 
-## Git Stats
- 
-<div align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=github-compact&hide_langs_below=1" />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=github-compact&line_height=27" alt="**Pedro Abreu** github stats"/>
-
-</div>
-
-
-## Status
-
-<br>
-<div style="padding:20px;">
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 
 
 [website]: https://pedro-abreu.onrender.com/
