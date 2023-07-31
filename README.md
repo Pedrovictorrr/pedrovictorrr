@@ -46,10 +46,11 @@ object **Pedro Abreu** {
 
 
 ## Status
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Abreu** github stats"/>
 </a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [website]: https://pedro-abreu.onrender.com/
 [linkedin]: https://www.linkedin.com/in/pedro-victor-fernandes-de-abreu-98411816a/
