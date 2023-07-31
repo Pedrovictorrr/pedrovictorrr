@@ -44,7 +44,7 @@ object **Pedro Abreu** {
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Pedro-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></
-
+</div>
 ## Status
 
 <a href="https://github.com/Gurupreet">
@@ -54,7 +54,7 @@ object **Pedro Abreu** {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Abreu** github stats"/>
 </a>
-</div>
+
 [website]: https://pedro-abreu.onrender.com/
 [linkedin]: https://www.linkedin.com/in/pedro-victor-fernandes-de-abreu-98411816a/
 
