@@ -14,15 +14,6 @@
 
 </div>
 
-
-## Status
-
-<br>
-<div style="padding:20px;">
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 ## Sobre 👋
 
 </div>
@@ -61,6 +52,13 @@ object **Pedro Abreu** {
 ```
 <div align="center">
 
+## Status
+
+<br>
+<div style="padding:20px;">
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 [website]: https://pedro-abreu.onrender.com/
 [linkedin]: https://www.linkedin.com/in/pedro-victor-fernandes-de-abreu-98411816a/
