@@ -54,7 +54,7 @@ object **Pedro Abreu** {
   )
   
   val Back = listOf(
-      "PHP", "Laravel", "Python", "Django", "C", "Arduino"
+      "PHP", "Laravel", "Python", "Django", "C"
   )
   
   val DevOps = listOf(
