@@ -21,7 +21,7 @@ object **Pedro Abreu** {
   )
   
   val backendDevelopment = listOf(
-      "PHP", "Laravel", "Python", "Django","C", "Arduino"
+      "PHP", "Laravel", "Python", "Django", "C", "Arduino"
   )
   
   val devOpsAndCloud = listOf(
