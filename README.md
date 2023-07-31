@@ -1,4 +1,7 @@
 # Oie devs 👋
+
+## Sobre
+
 ```kotlin
 object **Pedro Abreu** {
 
@@ -32,7 +35,7 @@ object **Pedro Abreu** {
 }
 ```
 
-## Linguagens e ferramentas
+## Git Stats
 <div align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=dracula&hide_langs_below=1" />
