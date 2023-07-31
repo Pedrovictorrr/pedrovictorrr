@@ -27,8 +27,7 @@ object **Pedro Abreu** {
   val devOpsAndCloud = listOf(
       "Docker", "AWS"
   )
-  
-  
+
   val designAndPrototyping = listOf(
       "Figma"
   )
