@@ -26,13 +26,13 @@ object **Pedro Abreu** {
 
  val primarySkillset = "PHP(LARAVEL)"
 
-  val Front-end = listOf(
+  val Front = listOf(
       "TypeScript", "JavaScript", "React Native",
       "React", "Angular", "Vue", "JQuery",
       "Bootstrap", "Tailwind"
   )
   
-  val Back-end = listOf(
+  val Back = listOf(
       "PHP", "Laravel", "Python", "Django", "C", "Arduino"
   )
   
