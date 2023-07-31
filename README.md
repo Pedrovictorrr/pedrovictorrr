@@ -23,7 +23,7 @@ object **Pedro Abreu** {
 ```
 
 ## Linguagens e ferramentas
-
+<div align="center">
  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,7 +54,7 @@ object **Pedro Abreu** {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Abreu** github stats"/>
 </a>
-
+</div>
 [website]: https://pedro-abreu.onrender.com/
 [linkedin]: https://www.linkedin.com/in/pedro-victor-fernandes-de-abreu-98411816a/
 
