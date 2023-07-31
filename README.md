@@ -12,7 +12,11 @@ object **Pedro Abreu** {
  val acknowledgements = "Desenvolvedor Full Stack"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val Skills = listOf("PHP", "TypeScript", "JavaScript", "React Native", "React", "Angular","Laravel", "Bootstrap", "Tailwind", "Docker", "AWS", "Angular", "JQuery", "Vue", "Python", "Django", "C", "Arduino", "Figma", "Linux")
+ val Skills = listOf(
+    "PHP", "TypeScript", "JavaScript", "React Native",
+  "React", "Angular","Laravel", "Bootstrap", "Tailwind", "Docker", "AWS",
+  "Angular", "JQuery", "Vue", "Python", "Django", "C", "Arduino", "Figma", "Linux"
+  )
 
 }
 ```
