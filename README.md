@@ -8,9 +8,9 @@
  
 <div align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=chartreuse-dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=blue-green&hide_langs_below=1" />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=chartreuse-dark&line_height=27" alt="**Pedro Abreu** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovictorrr&show_icons=true&theme=blue-green&line_height=27" alt="**Pedro Abreu** github stats"/>
 
 </div>
 
