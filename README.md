@@ -45,6 +45,8 @@ object **Pedro Abreu** {
       <img align="center" alt="Pedro-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></
 </div>
+
+
 ## Status
 
 <a href="https://github.com/Gurupreet">
