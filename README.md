@@ -6,26 +6,26 @@ object **Pedro Abreu** {
 
  val primarySkillset = "PHP(LARAVEL)"
 
-  val frontendDevelopment = listOf(
+  val Front-end = listOf(
       "TypeScript", "JavaScript", "React Native",
       "React", "Angular", "Vue", "JQuery",
       "Bootstrap", "Tailwind"
   )
   
-  val backendDevelopment = listOf(
+  val Back-end = listOf(
       "PHP", "Laravel", "Python", "Django", "C", "Arduino"
   )
   
-  val devOpsAndCloud = listOf(
+  val DevOps = listOf(
       "Docker", "AWS"
   )
 
-  val designAndPrototyping = listOf(
+  val Design = listOf(
       "Figma"
   )
   
-  val operatingSystems = listOf(
-      "Linux"
+  val OperatingSystems = listOf(
+      "Linux" , "Ubuntu", "Debian", "Windows", "MAC OS X"
   )
 
 }
