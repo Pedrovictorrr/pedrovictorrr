@@ -8,11 +8,12 @@
  
 <div align="center">
   <a href="https://github.com/pedrovictorrr">
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorrr&theme=dark&hide_border=false) 
    
   ![](https://github-readme-stats.vercel.app/api?username=pedrovictorrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-   
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorrr&theme=dark&hide_border=false)
+  
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <div  align="center" style="display: inline_block;   display: flex; justify-content: center;"><br>
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
