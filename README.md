@@ -74,6 +74,17 @@ object **Pedro Abreu** {
 
 
 <div align="center">
+ 
+
+## Meus Projetos
+
+| Plano médico | Reserva de mesa | Sistema de estoque |
+|:---:|:---:|:---:|
+| ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/c4eabbcf-cf32-4519-b150-66c7c7d8544c) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/adae83ac-9006-4f1e-8946-ea619378fe3e) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/9616d2d8-aa09-41b3-afcd-6c54d3d7fcc5) |
+
+| Lanche na praia | Portifolio | DETRO |
+|:---:|:---:|:---:|
+|![Captura de tela de 2023-07-31 23-38-16](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/f8cc500f-1842-4022-baab-bee41f501b46) |![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/aa5ec377-b21f-4630-8eb8-fda13f29dd24) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/6d686673-4855-4ffb-88c0-b59803e9f730)|
 
 ## Status
 
