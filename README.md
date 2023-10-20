@@ -40,39 +40,61 @@
 ## Sobre 👋
 
 </div>
+...
 
-```kotlin
-object **Pedro Abreu** {
+```php
+<?php
+class Perfil extends Develop {
+     
+Claro, há alguns erros de sintaxe e lógica no seu código. Aqui está uma versão corrigida:
 
- val name = "Pedro Victor Fernandes de Abreu"
- val acknowledgements = "Desenvolvedor Full Stack"
+php
+Copy code
+public function Pedro()
+{
+    try {
 
- val primarySkillset = "PHP(LARAVEL)"
+        $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
+        $label = "Laravel Developer";
+        $level = "Mid Level";
 
-  val Front = listOf(
-      "TypeScript", "JavaScript", "React Native",
-      "React", "Angular", "Vue", "JQuery",
-      "Bootstrap", "Tailwind"
-  )
-  
-  val Back = listOf(
-      "PHP", "Laravel", "Python", "Django", "C"
-  )
-  
-  val DevOps = listOf(
-      "Docker", "AWS"
-  )
+        if ($user) {
+            $skills = [
+                "primarySkillset" => "PHP(LARAVEL)",
+                "front" => [
+                    "TypeScript", "JavaScript", "React Native",
+                    "React", "Angular", "Vue", "JQuery",
+                    "Bootstrap", "Tailwind"
+                ],
+                "back" => [
+                    "PHP", "Laravel", "Python", "Django", "C", "Filament"
+                ],
+                "devOps" => [
+                    "Docker", "AWS"
+                ],
+                "design" => [
+                    "Figma"
+                ],
+                "operatingSystems" => [
+                    "Linux", "Ubuntu", "Debian", "Windows", "MAC OS X"
+                ],
+            ];
 
-  val Design = listOf(
-      "Figma"
-  )
-  
-  val OperatingSystems = listOf(
-      "Linux" , "Ubuntu", "Debian", "Windows", "MAC OS X"
-  )
+            // Vincular as habilidades do usuário
+            $user->skills()->sync($skills);
 
+            return "Habilidades atualizadas com sucesso para Pedro Victor Fernandes de Abreu. Label: $label, Level: $level";
+        } else {
+            return "Usuário não encontrado.";
+        }
+    } catch (\Exception $e) {
+        return $e->getMessage();
+    }
 }
+}
+?>
 ```
+
 
 
 <div align="center">
