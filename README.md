@@ -46,51 +46,47 @@
 <?php
 class Perfil extends Develop {
      
-Claro, há alguns erros de sintaxe e lógica no seu código. Aqui está uma versão corrigida:
-
-php
-Copy code
-public function Pedro()
-{
-    try {
-
-        $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
-        $label = "Laravel Developer";
-        $level = "Mid Level";
-
-        if ($user) {
-            $skills = [
-                "primarySkillset" => "PHP(LARAVEL)",
-                "front" => [
-                    "TypeScript", "JavaScript", "React Native",
-                    "React", "Angular", "Vue", "JQuery",
-                    "Bootstrap", "Tailwind"
-                ],
-                "back" => [
-                    "PHP", "Laravel", "Python", "Django", "C", "Filament"
-                ],
-                "devOps" => [
-                    "Docker", "AWS"
-                ],
-                "design" => [
-                    "Figma"
-                ],
-                "operatingSystems" => [
-                    "Linux", "Ubuntu", "Debian", "Windows", "MAC OS X"
-                ],
-            ];
-
-            // Vincular as habilidades do usuário
-            $user->skills()->sync($skills);
-
-            return "Habilidades atualizadas com sucesso para Pedro Victor Fernandes de Abreu. Label: $label, Level: $level";
-        } else {
-            return "Usuário não encontrado.";
-        }
-    } catch (\Exception $e) {
-        return $e->getMessage();
-    }
-}
+      public function Pedro()
+      {
+          try {
+      
+              $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
+              $label = "Laravel Developer";
+              $level = "Mid Level";
+      
+              if ($user) {
+                  $skills = [
+                      "primarySkillset" => "PHP(LARAVEL)",
+                      "front" => [
+                          "TypeScript", "JavaScript", "React Native",
+                          "React", "Angular", "Vue", "JQuery",
+                          "Bootstrap", "Tailwind"
+                      ],
+                      "back" => [
+                          "PHP", "Laravel", "Python", "Django", "C", "Filament"
+                      ],
+                      "devOps" => [
+                          "Docker", "AWS"
+                      ],
+                      "design" => [
+                          "Figma"
+                      ],
+                      "operatingSystems" => [
+                          "Linux", "Ubuntu", "Debian", "Windows", "MAC OS X"
+                      ],
+                  ];
+      
+                  // Vincular as habilidades do usuário
+                  $user->skills()->sync($skills);
+      
+                  return "Habilidades atualizadas com sucesso para Pedro Victor Fernandes de Abreu. Label: $label, Level: $level";
+              } else {
+                  return "Usuário não encontrado.";
+              }
+          } catch (\Exception $e) {
+              return $e->getMessage();
+          }
+      }
 }
 ?>
 ```
