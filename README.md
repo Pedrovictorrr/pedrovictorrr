@@ -3,16 +3,8 @@
 
 
 
- 
-## Git Stats
- 
-<div align="center">
-  <a href="https://github.com/pedrovictorrr">
+ ## Stacks
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorrr&theme=dark&hide_border=false) 
-  
- 
-</div>
 <div  align="center" style="display: inline_block;   display: flex; justify-content: center;"><br>
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
@@ -36,7 +28,15 @@
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
+## Git Stats
+ 
+<div align="center">
+  <a href="https://github.com/pedrovictorrr">
 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorrr&theme=dark&hide_border=false) 
+  
+ 
+</div>
 ## Sobre 👋
 
 </div>
