@@ -3,7 +3,7 @@
 
 
 
- ## Stacks
+ ### Stacks
 
 <div  align="center" style="display: inline_block;   display: flex; justify-content: center;"><br>
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -38,6 +38,7 @@
   
  
 </div>
+
 ## Sobre 👋
 
 </div>
