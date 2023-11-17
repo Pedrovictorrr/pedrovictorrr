@@ -105,9 +105,9 @@ class Perfil extends Develop {
 | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/c4eabbcf-cf32-4519-b150-66c7c7d8544c) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/a0eef92f-c0ac-42ee-88dd-5aa781fadf30) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/fc73cb0a-f34e-4a3e-9f62-6432acd31e93)
  |
 
-| Lanche na praia | Portifolio | DETRO |
+| Lanche na praia | Stock Sneakers | DETRO |
 |:---:|:---:|:---:|
-|![Captura de tela de 2023-07-31 23-38-16](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/f8cc500f-1842-4022-baab-bee41f501b46) |![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/aa5ec377-b21f-4630-8eb8-fda13f29dd24) | ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/6d686673-4855-4ffb-88c0-b59803e9f730)|
+|![Captura de tela de 2023-07-31 23-38-16](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/f8cc500f-1842-4022-baab-bee41f501b46) |![127 0 0 1_8000_login (1)](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/5db45516-138a-4d2a-ac7b-ea6f23cf1947) |![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/6d686673-4855-4ffb-88c0-b59803e9f730)|
 
 ## Status
 
