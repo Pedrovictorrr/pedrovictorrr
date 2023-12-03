@@ -7,49 +7,70 @@
 
 ```php
 <?php
-class Perfil extends Develop {
-     
-      public function Pedro()
-      {
-          try {
-      
-              $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
-              $label = "Laravel Developer";
-              $level = "Mid Level";
-      
-              if ($user) {
-                  $skills = [
-                      "primarySkillset" => "PHP(LARAVEL)",
-                      "front" => [
-                          "TypeScript", "JavaScript", "React Native",
-                          "React", "Angular", "Vue", "JQuery",
-                          "Bootstrap", "Tailwind", "Livewire"
-                      ],
-                      "back" => [
-                          "PHP", "Laravel", "Python", "Django", "C"
-                      ],
-                      "devOps" => [
-                          "Docker", "AWS"
-                      ],
-                      "design" => [
-                          "Figma"
-                      ],
-                      "operatingSystems" => [
-                          "Linux", "Ubuntu", "Debian", "Windows", "MAC OS X"
-                      ],
-                  ];
-      
-                  // Vincular as habilidades do usuário
-                  $user->skills()->sync($skills);
-      
-                  return "Habilidades atualizadas com sucesso para: $user->name, Cargo $label, Level $level";
-              } else {
-                  return "Usuário não encontrado.";
-              }
-          } catch (\Exception $e) {
-              return $e->getMessage();
-          }
-      }
+
+use App\Models\User;
+use App\Eloquenta\Develop;
+class Perfil extends Develop
+{
+
+    public function Pedro()
+    {
+        try {
+
+            $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
+            $label = "Laravel Developer";
+            $level = "Mid Level";
+
+            if ($user) {
+                $skills = [
+                    "primarySkillset" => "PHP(LARAVEL)",
+                    "front" => [
+                        "TypeScript",
+                        "JavaScript",
+                        "React Native",
+                        "React",
+                        "Angular",
+                        "Vue",
+                        "JQuery",
+                        "Bootstrap",
+                        "Tailwind",
+                        "Livewire"
+                    ],
+                    "back" => [
+                        "PHP",
+                        "Laravel",
+                        "Python",
+                        "Django",
+                        "C"
+                    ],
+                    "devOps" => [
+                        "Docker",
+                        "AWS"
+                    ],
+                    "design" => [
+                        "Figma"
+                    ],
+                    "operatingSystems" => [
+                        "Linux" => [
+                            "Ubuntu",
+                            "Debian",
+                        ],
+                        "Windows",
+                        "MAC OS X",
+                    ],
+                ];
+
+                // Vincular as habilidades do usuário
+                $user->skills()->sync($skills);
+
+                return "Habilidades atualizadas com sucesso para: $user->name, Cargo $label, Level $level";
+            } else {
+                return "Usuário não encontrado.";
+            }
+        } catch (\Exception $e) {
+            return $e->getMessage();
+        }
+    }
 }
 ?>
 ```
