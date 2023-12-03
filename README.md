@@ -42,7 +42,7 @@ class Perfil extends Develop {
                   // Vincular as habilidades do usuário
                   $user->skills()->sync($skills);
       
-                  return "Habilidades atualizadas com sucesso para Pedro Victor Fernandes de Abreu. Label: $label, Level: $level";
+                  return "Habilidades atualizadas com sucesso para: $user->name, Cargo $label, Level $level";
               } else {
                   return "Usuário não encontrado.";
               }
