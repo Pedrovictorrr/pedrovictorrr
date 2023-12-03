@@ -62,10 +62,10 @@ class Perfil extends Develop {
                       "front" => [
                           "TypeScript", "JavaScript", "React Native",
                           "React", "Angular", "Vue", "JQuery",
-                          "Bootstrap", "Tailwind"
+                          "Bootstrap", "Tailwind", "Livewire"
                       ],
                       "back" => [
-                          "PHP", "Laravel", "Python", "Django", "C", "Filament"
+                          "PHP", "Laravel", "Python", "Django", "C"
                       ],
                       "devOps" => [
                           "Docker", "AWS"
