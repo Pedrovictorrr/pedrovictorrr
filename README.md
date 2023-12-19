@@ -38,19 +38,23 @@ class Perfil extends Develop
                         "Laravel",
                         "Python",
                         "Django",
-                        "C"
+                        "C",
+                        "Java"
                     ],
                     "devOps" => [
                         "Docker",
-                        "AWS"
+                        "AWS",
+                        "Ubuntu-server"
                     ],
                     "design" => [
-                        "Figma"
+                        "Figma",
+                        "Adobe XD"
                     ],
                     "operatingSystems" => [
                         "Linux" => [
                             "Ubuntu",
                             "Debian",
+                            "Mint"
                         ],
                         "Windows",
                         "MAC OS X",
