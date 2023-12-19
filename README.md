@@ -17,7 +17,6 @@ class Perfil extends Develop
         try {
             $user = User::where('name', 'Pedro Victor Fernandes de Abreu')->first();
             $label = "Laravel Developer";
-            $level = "Mid Level";
             if ($user) {
                 $skills = [
                     "primarySkillset" => "PHP(LARAVEL)",
@@ -31,7 +30,7 @@ class Perfil extends Develop
                         "JQuery",
                         "Bootstrap",
                         "Tailwind",
-                        "Livewire"
+                        "Livewire",
                     ],
                     "back" => [
                         "PHP",
@@ -62,7 +61,7 @@ class Perfil extends Develop
                 ];
                 // Vincular as habilidades do usuário
                 $user->skills()->sync($skills);
-                return "Habilidades atualizadas com sucesso para: $user->name, Cargo $label, Level $level";
+                return "Habilidades atualizadas com sucesso para: $user->name, Cargo $label";
             } else {
                 return "Usuário não encontrado.";
             }
