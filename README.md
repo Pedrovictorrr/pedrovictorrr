@@ -93,11 +93,4 @@ class Perfil extends Develop
 
 ?>
 ```
-
-## Rede sociais
-
-🏡 [Website][website] **|**
-👔 [LinkedIn][linkedin]
-
-
 </div>
