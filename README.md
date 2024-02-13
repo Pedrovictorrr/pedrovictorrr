@@ -21,14 +21,6 @@
 | Lanche na praia | Stock Sneakers | DETRO |
 |:---:|:---:|:---:|
 |![Captura de tela de 2023-07-31 23-38-16](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/f8cc500f-1842-4022-baab-bee41f501b46) |![127 0 0 1_8000_login (1)](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/5db45516-138a-4d2a-ac7b-ea6f23cf1947) |![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/6d686673-4855-4ffb-88c0-b59803e9f730)|
-
-## Status
-
-<br>
-<div style="padding:20px;">
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovictorrr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 </div>
 </div>
 
