@@ -27,6 +27,7 @@
 </div>
 
 ```php
+
 <?php
 
 use App\Models\User;
