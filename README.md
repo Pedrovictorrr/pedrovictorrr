@@ -3,13 +3,15 @@
  
 <div align="center">
  
- ![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/b7e2d638-39fa-4bbe-aeea-971ae46748e2)
+
 
   <a href="https://github.com/pedrovictorrr">
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorrr&theme=dark&hide_border=false) 
   
- 
+![image](https://github.com/Pedrovictorrr/pedrovictorrr/assets/82172897/ef284ce3-1544-4628-a411-a8585f1a1e20)
+
+
 </div>
 
 <div align="center">
