@@ -1,5 +1,3 @@
-# Pedro Victor Fernandes de Abreu - CEO da CodeWave Systems
-
 Sou CEO da **CodeWave Systems**, uma empresa dedicada a transformar a forma como os negócios utilizam tecnologia para melhorar seus processos. Tenho uma vasta experiência em **desenvolvimento de software**, com uma forte base em **PHP/Laravel**, e estou sempre buscando inovações que possam trazer benefícios reais para os nossos clientes. 
 
 Com a CodeWave, focamos em soluções de alta qualidade para o mercado de tecnologia, apoiando empresas no desenvolvimento de sistemas personalizados, e também oferecendo suporte a grandes players do marketing digital.
@@ -14,9 +12,6 @@ Com a CodeWave, focamos em soluções de alta qualidade para o mercado de tecnol
 
 ### **DevOps**
 - **Docker**, **AWS**, **Ubuntu-server**
-
-### **Design**
-- **Figma**, **Adobe XD**
 
 ### **Sistemas Operacionais**
 - **Linux** (Ubuntu, Debian, Mint), **Windows**, **macOS**
