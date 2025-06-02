@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋</h1>
+<h1 align="center">Desenvolvedor Sênior</h1>
 
 <p align="center">
   Eu sou o <strong>Pedro Victor</strong>, desenvolvedor full stack sênior com experiência sólida em <strong>Laravel, React, React Native e Angular</strong>, atuando tanto no desenvolvimento web quanto mobile.  
