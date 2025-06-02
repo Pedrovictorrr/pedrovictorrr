@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,reactnative,angular,nextjs,nodejs,nestjs,python,django,fastapi,html,css,tailwind,bootstrap,mysql,postgres,oracle,docker,git,github,bitbucket,vscode,aws,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,angular,nextjs,nodejs,nestjs,python,django,fastapi,html,css,tailwind,bootstrap,mysql,postgres,docker,git,github,bitbucket,vscode,aws,digitalocean" />
 </div>
 
 <br/>
