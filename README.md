@@ -1,12 +1,3 @@
-<h1 align="center">Desenvolvedor Sênior</h1>
-
-<p align="center">
-  Eu sou o <strong>Pedro Victor</strong>, desenvolvedor full stack sênior com experiência sólida em <strong>Laravel, React, React Native e Angular</strong>, atuando tanto no desenvolvimento web quanto mobile.  
-  Tenho paixão por tecnologia, foco em performance e qualidade, e venho entregando soluções robustas com <strong>Docker, APIs REST, bancos relacionais e modernas stacks front-end</strong>.
-</p>
-
-<br/>
-
 <p align="center">
   <a href="mailto:pedro.fabreu97@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
