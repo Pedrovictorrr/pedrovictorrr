@@ -109,7 +109,7 @@ CAL = 'contributionCalendar{totalContributions weeks{contributionDays{date contr
 
 
 def busca(token):
-    u = graphql(f'''{{user(login:"{USUARIO}"){{createdAt followers{{totalCount}} pullRequests{{totalCount}}
+    u = graphql(f'''{{user(login:"{USUARIO}"){{createdAt followers{{totalCount}}
       todos: repositories(ownerAffiliations:OWNER, privacy:PUBLIC){{totalCount}}
       repos: repositories(first:100, ownerAffiliations:OWNER, privacy:PUBLIC, isFork:false){{nodes{{stargazerCount
         languages(first:10, orderBy:{{field:SIZE, direction:DESC}}){{edges{{size node{{name color}}}}}}}}}}
@@ -136,7 +136,7 @@ def busca(token):
         total=sum(c['contributionCalendar']['totalContributions'] for c in por_ano.values()),
         desde=anos[0], atual=atual, recorde=recorde, repos=u['todos']['totalCount'],
         estrelas=sum(r['stargazerCount'] for r in u['repos']['nodes']),
-        seguidores=u['followers']['totalCount'], prs=u['pullRequests']['totalCount'],
+        seguidores=u['followers']['totalCount'], melhor=max(dias.values(), default=0),
         dias=ultimo_ano, langs=sorted(langs.items(), key=lambda kv: -kv[1][0])[:5],
     )
 
@@ -377,7 +377,7 @@ def escritorio(d):
           texto('GITHUB', 245 - largura('GITHUB'), 9, '#6b6f8f')]
     paineis = [('CONTRIBUICOES', fmt(d['ano']), 'NO ULTIMO ANO'),
                ('STREAK ATUAL', f'{d["atual"]} DIAS', f'RECORDE: {d["recorde"]} DIAS'),
-               ('REPOS PUBLICOS', str(d['repos']), f'{d["estrelas"]} STARS  {d["prs"]} PRS'),
+               ('REPOS PUBLICOS', str(d['repos']), f'{d["estrelas"]} STARS  {d["seguidores"]} SEGUIDORES'),
                (f'TOTAL DESDE {d["desde"]}', fmt(d['total']), 'E CONTANDO...')]
     for i, (t1, t2, t3) in enumerate(paineis):
         p = texto(t1, 204, 17, '#8b8fb5', 1, True) + texto(t2, 204, 24, '#3ff5d0', 2, True) + \
@@ -448,7 +448,7 @@ def ficha(d, hoje):
     linhas = [('NO ANO', fmt(d['ano']), 'TOTAL', fmt(d['total'])),
               ('STREAK', f'{d["atual"]}D', 'RECORDE', f'{d["recorde"]}D'),
               ('REPOS', str(d['repos']), 'STARS', str(d['estrelas'])),
-              ('PULL REQS', str(d['prs']), 'SEGUIDORES', str(d['seguidores']))]
+              ('MELHOR DIA', str(d['melhor']), 'SEGUIDORES', str(d['seguidores']))]
     for i, (k1, v1, k2, v2) in enumerate(linhas):
         y = 54 + i * 8
         s += [texto(k1, 9, y, cinza), texto(v1, 66 - largura(v1), y, branco),
