@@ -9,5 +9,5 @@
 <sub>👾 A equipe de IA da <b>CodeWave Systems</b> no turno 24/7: Jessica no suporte, Igor em vendas, Marcos no código, Alana no marketing, Bruno no QA e Gabrielle na agenda do chefe.</sub>
 
 <br/><br/>
-
+/
 </div>
